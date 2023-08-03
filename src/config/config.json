@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "unik",
+    "password": "Unik2003@",
+    "database": "Flight_DB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
