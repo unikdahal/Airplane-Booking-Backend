@@ -1,4 +1,4 @@
-# Welcome to Airplane Booking System
+# Welcome to Flight Service
 
 ## Project Setup
 
